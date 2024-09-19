@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pancakes Recipe</title>
+</head>
+<body>
+    <h1>Pancakes</h1>
+    
+    <!-- Image of Pancakes -->
+    <img src="https://1drv.ms/i/s!Aj6irJ7VhswPz0sEtM-DvUvq6qjo?e=7HwXLy" alt="Delicious pancakes" width="500">
+
+    <!-- Description -->
+    <h2>Description</h2>
+    <p>Pancakes are a classic breakfast treat made with a simple batter and cooked until golden brown. They are fluffy, light, and perfect with maple syrup, butter, or any topping of your choice.</p>
+
+    <!-- Ingredients -->
+    <h2>Ingredients</h2>
+    <ul>
+        <li>1 cup all-purpose flour</li>
+        <li>2 tablespoons sugar</li>
+        <li>1 tablespoon baking powder</li>
+        <li>1/2 teaspoon salt</li>
+        <li>1 egg</li>
+        <li>3/4 cup milk</li>
+        <li>2 tablespoons melted butter</li>
+        <li>1 teaspoon vanilla extract</li>
+    </ul>
+
+    <!-- Steps -->
+    <h2>Steps</h2>
+    <ol>
+        <li>In a large bowl, whisk together flour, sugar, baking powder, and salt.</li>
+        <li>In another bowl, whisk together the egg, milk, melted butter, and vanilla extract.</li>
+        <li>Pour the wet ingredients into the dry ingredients and stir until just combined. Don't overmix.</li>
+        <li>Heat a non-stick skillet over medium heat. Lightly grease with butter or cooking spray.</li>
+        <li>Pour 1/4 cup of batter onto the skillet and cook until bubbles appear on the surface and the edges are set, about 2-3 minutes.</li>
+        <li>Flip the pancake and cook for another 1-2 minutes until golden brown.</li>
+        <li>Repeat with the remaining batter. Serve pancakes warm with butter and maple syrup or any other toppings you prefer.</li>
+    </ol>
+</body>
+</html>
